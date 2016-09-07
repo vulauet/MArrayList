@@ -192,3 +192,13 @@ public class MArrayList<Item> implements Iterable<Item>, Collection<Item>, Clone
         return null;
     }
 }
+
+/* TODO
+- iterator
+- removeRange
+- containsAll
+- indexOf
+- retainAll
+- removeAll
+- listIterator
+ */
